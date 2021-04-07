@@ -1,0 +1,26 @@
+type Image {
+  src: String!
+  alt: String
+}
+
+type Dimensions {
+  width: Int!
+  height: Int!
+}
+
+type Product {
+  name: String!
+  category: String!
+  price: Int!
+  currency: String!
+  image: Image
+  bestseller: Boolean!
+  featured: Boolean!
+  size: Int
+  description: String
+  dimensions: Dimensions
+}
+
+type Query {
+  allProducts: [Product]
+}

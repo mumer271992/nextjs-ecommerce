@@ -1,0 +1,278 @@
+[
+    {
+        "name": "Red Bench",
+        "category": "people",
+        "price": 3.89,
+        "currency": "USD",
+        "image": {
+            "src": "/images/red-bench.svg",
+            "alt": ""
+        },
+        "bestseller": true,
+        "featured": false,
+        "details": null
+    },
+    {
+        "name": "Egg Balloon",
+        "category": "food",
+        "price": 93.89,
+        "currency": "USD",
+        "image": {
+            "src": "/images/egg-ballon.svg"
+        },
+        "bestseller": false,
+        "featured": false,
+        "details": null
+    },
+    {
+        "name": "Man",
+        "category": "people",
+        "price": 100,
+        "currency": "USD",
+        "image": {
+            "src": "/images/egg-ballon.svg",
+            "alt": ""
+        },
+        "bestseller": false,
+        "featured": false,
+        "details": null
+    },
+    {
+        "name": "Architecture",
+        "category": "landmarks",
+        "price": 110,
+        "currency": "USD",
+        "dimmentions": {
+            "width": 1020,
+            "height": 1020
+        },
+        "image": {
+            "src": "/images/egg-ballon.svg",
+            "alt": ""
+        },
+        "bestseller": false,
+        "featured": false,
+        "details": null
+    },
+    {
+        "name": "Architecture",
+        "category": "landmarks",
+        "price": 101,
+        "currency": "USD",
+        "dimmentions": {
+            "width": 1020,
+            "height": 1020
+        },
+        "image": {
+            "src": "/images/egg-ballon.svg",
+            "alt": ""
+        },
+        "bestseller": false,
+        "featured": false,
+        "details": null
+    },
+    {
+        "name": "Samurai King Restling",
+        "category": "landmarks",
+        "price": 105,
+        "currency": "USD",
+        "image": {
+            "src": "/images/featured-artwork.svg",
+            "alt": ""
+        },
+        "bestseller": false,
+        "featured": true,
+        "details": {
+            "dimmentions": {
+                "width": 1020,
+                "height": 1020
+            }
+        },
+        "size": 15000,
+        "description": "So how did the classical Latin become so incoherent? According to McClintock, a 15th century typesetter likely",
+        "recommendations": [
+            {
+                "src": "/images/recomendation_1.svg",
+                "alt": ""
+            },
+            {
+                "src": "/images/recomendation_2.svg",
+                "alt": ""
+            },
+            {
+                "src": "/images/recomendation_3.svg",
+                "alt": ""
+            }
+        ]
+    },
+    {
+        "name": "Architecture 1",
+        "category": "landmarks",
+        "price": 101,
+        "currency": "USD",
+        "dimmentions": {
+            "width": 1020,
+            "height": 1020
+        },
+        "image": {
+            "src": "/images/egg-ballon.svg",
+            "alt": ""
+        },
+        "bestseller": false,
+        "featured": false,
+        "details": null
+    },
+    {
+        "name": "Architecture 2",
+        "category": "landmarks",
+        "price": 101,
+        "currency": "USD",
+        "dimmentions": {
+            "width": 1020,
+            "height": 1020
+        },
+        "image": {
+            "src": "/images/egg-ballon.svg",
+            "alt": ""
+        },
+        "bestseller": false,
+        "featured": false,
+        "details": null
+    },
+    {
+        "name": "Architecture 3",
+        "category": "landmarks",
+        "price": 101,
+        "currency": "USD",
+        "dimmentions": {
+            "width": 1020,
+            "height": 1020
+        },
+        "image": {
+            "src": "/images/egg-ballon.svg",
+            "alt": ""
+        },
+        "bestseller": false,
+        "featured": false,
+        "details": null
+    },
+    {
+        "name": "Architecture 4",
+        "category": "landmarks",
+        "price": 101,
+        "currency": "USD",
+        "dimmentions": {
+            "width": 1020,
+            "height": 1020
+        },
+        "image": {
+            "src": "/images/egg-ballon.svg",
+            "alt": ""
+        },
+        "bestseller": false,
+        "featured": false,
+        "details": null
+    },
+    {
+        "name": "Architecture 5",
+        "category": "landmarks",
+        "price": 101,
+        "currency": "USD",
+        "dimmentions": {
+            "width": 1020,
+            "height": 1020
+        },
+        "image": {
+            "src": "/images/egg-ballon.svg",
+            "alt": ""
+        },
+        "bestseller": false,
+        "featured": false,
+        "details": null
+    },
+    {
+        "name": "Architecture 6",
+        "category": "landmarks",
+        "price": 101,
+        "currency": "USD",
+        "dimmentions": {
+            "width": 1020,
+            "height": 1020
+        },
+        "image": {
+            "src": "/images/egg-ballon.svg",
+            "alt": ""
+        },
+        "bestseller": false,
+        "featured": false,
+        "details": null
+    },
+    {
+        "name": "Architecture 7",
+        "category": "landmarks",
+        "price": 101,
+        "currency": "USD",
+        "dimmentions": {
+            "width": 1020,
+            "height": 1020
+        },
+        "image": {
+            "src": "/images/egg-ballon.svg",
+            "alt": ""
+        },
+        "bestseller": false,
+        "featured": false,
+        "details": null
+    },
+    {
+        "name": "Architecture 8",
+        "category": "landmarks",
+        "price": 101,
+        "currency": "USD",
+        "dimmentions": {
+            "width": 1020,
+            "height": 1020
+        },
+        "image": {
+            "src": "/images/egg-ballon.svg",
+            "alt": ""
+        },
+        "bestseller": false,
+        "featured": false,
+        "details": null
+    },
+    {
+        "name": "Architecture 9",
+        "category": "landmarks",
+        "price": 101,
+        "currency": "USD",
+        "dimmentions": {
+            "width": 1020,
+            "height": 1020
+        },
+        "image": {
+            "src": "/images/egg-ballon.svg",
+            "alt": ""
+        },
+        "bestseller": false,
+        "featured": false,
+        "details": null
+    },
+    {
+        "name": "Architecture 10",
+        "category": "landmarks",
+        "price": 101,
+        "currency": "USD",
+        "dimmentions": {
+            "width": 1020,
+            "height": 1020
+        },
+        "image": {
+            "src": "/images/egg-ballon.svg",
+            "alt": ""
+        },
+        "bestseller": false,
+        "featured": false,
+        "details": null
+    }
+]

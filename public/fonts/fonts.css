@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Archivo B";
+  src: url("./Archivo/static/Archivo-Bold.ttf");
+}
+
+@font-face {
+  font-family: "Archivo M";
+  src: url("./Archivo/static/Archivo-Medium.ttf");
+}
+
+@font-face {
+  font-family: "Archivo R";
+  src: url("./Archivo/static/Archivo-Regular.ttf");
+}
